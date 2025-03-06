@@ -1,5 +1,4 @@
-# leet-exercise
-my leetcode
+# [LeetCode](https://leetcode.com) 進階程式設計
 
 ## Solved Problems
 | | Easy | Medium | Hard | Total |
